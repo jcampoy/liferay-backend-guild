@@ -2,10 +2,48 @@
 
 ## Session Info
 
-**Driver**: Miguel Pastor, Raymond Augé, Marcellus Tavares
+**Driver**: Miguel Pastor, Marcellus Tavares
 
-**Date and Time**: TBA
+**Date and Time**: Wednesday 25th, 10:00 - 12:00
 
-## Agenda
+## Goals of the guild
 
-## Resources
+* Promote Liferay's culture
+* Promote quality
+* Help to member's professional growth
+* Spread the knowledge
+* Not probably every local guild will have the same rules, tho
+
+Goal: try to gather more ideas from the people
+Goal: try to create a Manifesto?
+
+## How can we achieve the previous goals?
+
+* What kind of activities we could do?
+    * Workshops, talks, hackdays, ... ?
+    * Should we record them?
+    * Would be bringing experts anything useful?
+* As a global team it's probably going to be complicated:
+    * Timezone
+    * Different skills
+    * Need to find a proper balance
+* How can we improve our communication?
+
+Goal: try to gather more ideas from the people
+
+## Interests?
+
+The goal is to gather as much information as we can about people's interests
+
+Some people has already conveyed their opinions. We've tried to cover some of them during this retreat, but, sadly, we don't have enough time to fit them all.
+
+* "New" technologies?
+    * Some people has asked about Akka, SpringBoot, ...
+* "New" lenguages?
+    * Some people has asked me about Go, 
+* "New" software architectures?
+* Machine learning
+* Cloud computing
+    * Some people has asked about IaaS, containers, PaaS
+
+Goal: try to gather more ideas from the people
