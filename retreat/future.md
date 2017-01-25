@@ -20,9 +20,8 @@ Goal: try to create a Manifesto?
 ## How can we achieve the previous goals?
 
 * What kind of activities we could do?
-    * Workshops, talks, hackdays, ... ?
-    * Should we record them?
-    * Would be bringing experts anything useful?
+    * Workshops, talks, hackdays, periodic gatherings, ... ?
+    * Would be bringing experts any useful?
 * As a global team it's probably going to be complicated:
     * Timezone
     * Different skills
@@ -39,11 +38,12 @@ Some people has already conveyed their opinions. We've tried to cover some of th
 
 * "New" technologies?
     * Some people has asked about Akka, SpringBoot, ...
-* "New" lenguages?
+* "New" programming languages and paradigms?
     * Some people has asked me about Go, 
 * "New" software architectures?
 * Machine learning
 * Cloud computing
     * Some people has asked about IaaS, containers, PaaS
+* Data processing at scale
 
 Goal: try to gather more ideas from the people
