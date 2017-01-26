@@ -11,8 +11,8 @@ Bellow you can find all the activities and the links to the pages with the detai
 
 |         Wednesday Activities    | 
 |----------|:-------------:|
-| 9:00 - 10:00     |  [Teams introduction](retreat/teams.html) |
-| 10:00 - 12:00    |  [A review of the year and planning the future](retreat/future.html) |
+| 9:30 - 10:00     |  [Teams introduction](retreat/teams.html) |
+| 10:00 - 12:00    |  [Planning the future](retreat/future.html) |
 | 13:30:00 - 15:30 |  [Declarative Services: Deep Dive](retreat/ds.html)|
 | 15:30:00 - ??    |  Time for the teams |
 
@@ -49,7 +49,7 @@ This workshop will guide you through all the Declarative Service fundamentals as
 Every team can use this time depending their needs
 
 
-## A review of the year and planning the future (2 hours)
+## Planning the future (2 hours)
 
 The concept of the guild has not been really enforced during this year, and we’re trying to fix it, but we’d like to discuss what we’ve done in this year, and what kind of things we want to achieve in the future
 
