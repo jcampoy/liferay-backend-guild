@@ -1,6 +1,11 @@
 ---
-layout: default
-title: 2017 Los Angeles Retreat
+layout: post
+title: "2017 Los Angeles Retreat"
+categories:
+    - Backend
+    - Guild
+    - Global
+author: "Miguel Pastor"
 ---
 
 # 2017 Retreat at Los Angeles Headquarter
