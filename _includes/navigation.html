@@ -1,0 +1,23 @@
+<nav>
+  <ul>
+    {% for navigation in site.data.navigation %}
+      {% if navigation.subcategories != null %}
+        <li>
+          <a href="{{ site.url }}{{ navigation.url }}">{{ navigation.title }} ▼</a>
+          <ul>
+          {% for subcategory in navigation.subcategories %}
+            <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+          {% endfor %}
+          </ul>
+        </li>
+      {% elsif navigation.title == page.title %}
+         <li class="active">
+           <a href="{{ navigation.url }}">{{ navigation.title }}</a>
+         </li>
+      {% else %} 
+        <li>
+          <a href="{{ site.url }}{{ navigation.href }}">{{ navigation.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>

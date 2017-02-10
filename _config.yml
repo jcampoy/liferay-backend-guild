@@ -1,2 +1,8 @@
-theme: "jekyll-whiteglass"
+#theme: "jekyll-theme-slate"
+#theme: "jekyll-theme-tactile"
+theme: "jekyll-theme-cayman"
 markdown: kramdown
+
+# Site config
+title: "Liferay Backend Engineering Guild"
+description: "Resources, blog posts and all the activities related to the guild"

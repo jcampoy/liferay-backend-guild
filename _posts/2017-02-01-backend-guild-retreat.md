@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: default
 title: "2017 Los Angeles Retreat"
 categories:
-    - Backend
-    - Guild
-    - Global
-author: "Miguel Pastor"
+    - gatherings
+    - global
+author: "Miguel Ángel Pastor Olivar"
+date: 2017-02-01
 ---
 
 # 2017 Retreat at Los Angeles Headquarter
