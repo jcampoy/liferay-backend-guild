@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/liferay/ds/workshop/task/server/provider/TaskImpl.java=UTF-8
+encoding//src/com/liferay/ds/workshop/task/server/provider/TaskManager.java=UTF-8
+encoding//test/com/liferay/ds/workshop/task/server/provider/ExampleTest.java=UTF-8
+encoding/bnd.bnd=UTF-8
+encoding/launch.bndrun=UTF-8

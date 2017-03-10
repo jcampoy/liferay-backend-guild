@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/liferay/ds/workshop/task/file/event/KafkaServerListener.java=UTF-8
+encoding//src/com/liferay/ds/workshop/task/file/event/LogServerListener.java=UTF-8
+encoding//src/com/liferay/ds/workshop/task/file/storage/AdvancedStorageProvider.java=UTF-8
+encoding//src/com/liferay/ds/workshop/task/file/storage/FileStorageProvider.java=UTF-8
+encoding/bnd.bnd=UTF-8

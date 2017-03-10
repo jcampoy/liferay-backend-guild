@@ -1,0 +1,20 @@
+-buildpath: \
+	osgi.annotation;version=6.0.1,\
+	osgi.core;version=6.0,\
+	osgi.cmpn;version=6.0,\
+	com.liferay.ds.workshop.task.server.api;version=latest
+
+-testpath: \
+	${junit}
+
+javac.source: 1.8
+javac.target: 1.8
+
+Bundle-Version: 0.0.0.${tstamp}
+Export-Package: \
+	com.liferay.ds.workshop.task.server.storage,\
+	com.liferay.ds.workshop.task.server.event
+Private-Package: \
+	com.liferay.ds.workshop.task.server.provider,\
+	com.liferay.ds.workshop.task.server.command,\
+	com.liferay.ds.workshop.task.server.config

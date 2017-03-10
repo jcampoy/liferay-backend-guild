@@ -1,0 +1,5 @@
+javac.source: 1.8
+javac.target: 1.8
+
+Bundle-Version: 0.0.0.${tstamp}
+Export-Package: com.liferay.ds.workshop.task.server.api
